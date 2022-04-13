@@ -2,11 +2,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>iti100</groupId>
-	<artifactId>javafx-animation</artifactId>
+	<artifactId>javafx-animation-button</artifactId>
 	<version>0.0.1</version>
 
-	<name>javafx-animation</name>
-	<description>javafx-animation</description>
+	<name>javafx-animation-button</name>
+	<description>javafx-animation-button</description>
 
 	<properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
