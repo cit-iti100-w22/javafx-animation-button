@@ -1,4 +1,6 @@
 # JavaFX Animation Button
+
+Add animation to button to your javafx apps and games
  
  [![GitHub contributors](https://img.shields.io/github/contributors/cit-iti100-w22/javafx-animation-button.svg)](https://github.com/cit-iti100-w22/javafx-animation-button/graphs/contributors)
 [![GitHub stars](https://img.shields.io/github/stars/cit-iti100-w22/javafx-animation-button.svg)](https://github.com/cit-iti100-w22/javafx-animation-button)
